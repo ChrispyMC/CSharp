@@ -1,2 +1,2 @@
-# csharp-projects
+# CSharp
 My C# Projects
